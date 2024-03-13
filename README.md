@@ -5,4 +5,4 @@ msfgnet program: [AI Studio](https://aistudio.baidu.com/studio/project/partial/v
 
 The model weights can be found at: [AI Studio](https://aistudio.baidu.com/datasetdetail/252792) or [GoogleCloud](https://drive.google.com/file/d/1i8I-MVaUzJIZmaq2jJxn1C1wQJODBCrs/view?usp=sharing)
 
-Datasets:[clcd](https://aistudio.baidu.com/datasetdetail/246718), [levir-cd](https://aistudio.baidu.com/datasetdetail/245594), [gvlm](https://aistudio.baidu.com/datasetdetail/245593)
+Datasets:[CLCD](https://aistudio.baidu.com/datasetdetail/246718), [LEVIR-CD](https://aistudio.baidu.com/datasetdetail/245594), [GVLM-CD](https://aistudio.baidu.com/datasetdetail/245593)
