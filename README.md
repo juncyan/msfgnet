@@ -1,5 +1,8 @@
-# msfgnet torch code. weights, and program are created using paddle.
-MSFGNet:Multi-Scale Features Gathering Network for Change Detection of Remote Sensing images
+# MSFGNet:Multi-Scale Features Gathering Network for Change Detection of Remote Sensing images
+
+msfgnet torch code. 
+
+weights, and program are created using paddle.
 
 msfgnet program: [AI Studio](https://aistudio.baidu.com/studio/project/partial/verify/7245102/d982805a62d742f684f61358da29c5db)
 
